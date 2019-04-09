@@ -5,6 +5,6 @@ public class Main {
     }
 
     public String greatMethod() {
-        return "良い機能ができました。";
+        return "良い機能ができました。 ";
     }
 }
