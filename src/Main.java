@@ -4,10 +4,7 @@ public class Main {
         System.out.println("Hello World!");
     }
 
-    /**
-     * プルデモ用メソッド
-     * */
-    public void pullDemoMethod() {
+    public void conflictMethod() {
         System.out.println("コンフリクトが発生します。");
     }
 }
