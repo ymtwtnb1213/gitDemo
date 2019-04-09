@@ -8,6 +8,6 @@ public class Main {
      * プルデモ用メソッド
      * */
     public void pullDemoMethod() {
-        System.out.println("コンフリクトが発生します。。");
+        System.out.println("コンフリクトが発生します。");
     }
 }
