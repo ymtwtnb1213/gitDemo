@@ -6,7 +6,7 @@ public class Main {
 
     /**
      * プルデモ用メソッド
-     * */
+     */
     public void pullDemoMethod() {
         System.out.println("pullデモ用に作成したメソッドです。");
     }
