@@ -4,5 +4,5 @@ public class Main {
         System.out.println("Hello World!");
     }
     
-    // テスト用の変更
+    // テスト用の変更ggg
 }
