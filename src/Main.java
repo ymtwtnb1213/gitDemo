@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello World!");
     }
 
+    // コメント
     public String testMethod() {
         return "テストメソッド";
     }
